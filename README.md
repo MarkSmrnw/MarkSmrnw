@@ -1,5 +1,8 @@
 ## Hallo! I am Mark, alias Smirnow.
 
+I've been doing personal projects since I was a tiny Mark. 
+And now I'm making it my job!
+
 <!--
 **MarkSmrnw/MarkSmrnw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
