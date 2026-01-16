@@ -6,7 +6,6 @@ I've been doing personal projects since I was a tiny Mark.
 And now I'm making it my job!
 
 <img src="nerdSketch.png" style="width:33%; aspect-ratio:1/1; max-width:200px;">
-<img src="bufferSketch.png" style="width:33%; aspect-ratio:1/1; max-width:200px;">
 
 </center>
 
@@ -36,5 +35,5 @@ And now I'm making it my job!
 
 
 
-# <img src="stareSketch.png" style="width:33%; aspect-ratio:1/1; max-width:32px;"> - SMRNW <img src="stareSketch.png" style="width:33%; aspect-ratio:1/1; max-width:32px;">
+#  - SMRNW 
 
