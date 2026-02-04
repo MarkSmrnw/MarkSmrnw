@@ -16,6 +16,8 @@ And now I'm making it my job!
     > My most active coding languages are: Lua, Python and JavaScript.
     
     > I edit my videos with Vegas Pro 21.
+
+    > My coding skills are self taught. Excuse messy code, I try my best!
 - I am German (sorry)
 
 ### Current projects
